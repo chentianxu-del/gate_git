@@ -32,6 +32,8 @@ public class Arrtest {
 
         }catch (Exception e){
 
+        }finally {
+            System.out.println("测试问题跟踪");
         }
         System.out.println("1");
     }
